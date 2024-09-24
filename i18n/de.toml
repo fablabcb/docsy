@@ -10,7 +10,7 @@ other = "Weiter"
 other = "Weiterlesen"
 
 [ui_search]
-other = "Diese Seite durchsuchen…"
+other = "Seite durchsuchen…"
 
 # Used in sentences such as "Posted in News"
 [ui_in]
