@@ -2,6 +2,7 @@
 
 {{ with .Site.Params.privacy_policy -}}
   <span class="ms-2"><a href="{{ . }}" target="_blank" rel="noopener">{{ T "footer_privacy_policy" }}</a></span>
+  <span class="ms-2"><a href="{{ . }}" target="_blank" rel="noopener">{{ T "footer_imprint" }}</a></span>
 {{- end -}}
 
 {{ if ne .Site.Params.ui.footer_about_disable nil -}}

@@ -25,7 +25,10 @@ other = "alle"
 other = "Alle Rechte vorbehalten"
 
 [footer_privacy_policy]
-other = "Datenschutzrichtlinie"
+other = "Datenschutzerklärung"
+
+[footer_imprint]
+other = "Impressum"
 
 
 # Post (blog, articles etc.)
